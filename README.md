@@ -24,6 +24,8 @@ can use a social login to Twitch
 
 ### how to run with poetry
 - poetry run uvicorn poll:app --reload
+ to install stuff
+- poetry add [whatever]
 
 ### how to run with only uvicorn
 - uvicorn poll:app --reload
